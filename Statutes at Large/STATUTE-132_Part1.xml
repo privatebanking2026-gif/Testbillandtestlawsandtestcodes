@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<statutesAtLarge xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.17.xsd">
+<meta><dc:publisher>United States Government Publishing Office</dc:publisher>
+<dc:creator>Office of the Federal Register</dc:creator><dc:creator>National Archives and Records Administration</dc:creator>
+<dc:format>text/xml</dc:format><dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<processedBy>Stage2.20240826</processedBy><processedDate>2025-05-08</processedDate>
+<congress>115</congress><session>2</session>
+<dc:date>2018</dc:date><volume>132</volume></meta>
+<main><collection role="statutesParts">
+</collection></main>
+</statutesAtLarge>
