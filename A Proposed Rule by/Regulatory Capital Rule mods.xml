@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-2026-05959">
+    <name type="corporate">
+        <namePart>United States Government Publishing Office</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+            <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>National Archives and Records Administration</namePart>
+        <namePart>Office of the Federal Register</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+        <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+        <collectionCode>FR</collectionCode>
+        <category>Regulatory Information</category>
+        <waisDatabaseName>2026_register</waisDatabaseName>
+        <branch>executive</branch>
+        <dateIngested>2026-03-28</dateIngested>
+    </extension>
+    <genre authority="marcgt">article</genre>
+    <titleInfo>
+        <title>Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations</title>
+        <partNumber>Part III</partNumber>
+        <partName>Proposed Rules</partName>
+    </titleInfo>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2026-03-27/html/2026-05959.htm">
+        <identifier type="FDsys Unique ID">D09002ee1e01069ae</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2026-03-27/pdf/2026-05959.pdf">
+        <identifier type="FDsys Unique ID">D09002ee1e0106a5c</identifier>
+    </relatedItem>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Department of the Treasury</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Office of the Comptroller of the Currency</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Federal Reserve System</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Federal Deposit Insurance Corporation</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <abstract>The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation are proposing to modernize the capital requirements applicable to Category I and II depository institution holding companies and depository institutions, as well as revise the market risk capital framework for banking organizations with significant trading activity (the proposal). The proposal would improve the regulatory capital framework for covered banking organizations by enhancing its risk sensitivity and consistency and by simplifying core components of its design. The agencies expect the proposal would support the safety and soundness of covered banking organizations and U.S. financial stability while promoting lending and other financial intermediation activities in the banking system over a range of economic conditions.</abstract>
+    <identifier type="FR citation">91 FR 14952</identifier>
+    <identifier type="uri">https://www.govinfo.gov/app/details/FR-2026-03-27/2026-05959</identifier>
+    <identifier type="FR Doc No.">2026-05959</identifier>
+    <identifier type="former granule identifier">fr27mr26-10</identifier>
+    <identifier type="Regulation ID Number">RIN 1557-AF52</identifier>
+    <identifier type="Regulation ID Number">RIN 7100-AH20</identifier>
+    <identifier type="Regulation ID Number">RIN 3064-AF29</identifier>
+    <identifier type="billing code">4810-33- 6210-01- 6714-01-P</identifier>
+    <identifier type="department code">Docket ID OCC-2026-0265</identifier>
+    <identifier type="department code">Docket No. 1887</identifier>
+    <location>
+        <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2026-03-27/2026-05959</url>
+        <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/FR-2026-03-27/html/2026-05959.htm</url>
+        <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/FR-2026-03-27/pdf/2026-05959.pdf</url>
+    </location>
+    <subject>
+        <topic>Confidential Business Information</topic>
+        <topic>Crime</topic>
+        <topic>Currency</topic>
+        <topic>Mortgages</topic>
+        <topic>Securities</topic>
+        <topic>Capital</topic>
+        <topic>Holding Companies</topic>
+        <topic>Credit</topic>
+        <topic>Qualified Financial Contracts</topic>
+        <topic>Administrative Practice and Procedure</topic>
+        <topic>Banks</topic>
+        <topic>Banking</topic>
+        <topic>Federal Reserve System</topic>
+        <topic>Investments</topic>
+        <topic>National Banks</topic>
+        <topic>Reporting and Recordkeeping Requirements</topic>
+        <topic>Savings Association</topic>
+        <topic>Savings Associations</topic>
+        <topic>Banking</topic>
+        <topic>Capital Adequacy</topic>
+        <topic>Savings Associations</topic>
+        <topic>State Non-Member Banks</topic>
+        <topic>Penalties</topic>
+    </subject>
+    <physicalDescription>
+        <extent>378 p.</extent>
+    </physicalDescription>
+    <part type="Part III">
+        <extent unit="pages">
+            <start>14952</start>
+            <end>15329</end>
+        </extent>
+    </part>
+    <identifier type="preferred citation">91 FR 14952</identifier>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 208</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  208</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 217</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  217</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 225</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  225</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 238</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  238</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 252</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  252</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 32</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  32</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 324</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  324</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 3</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  3</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 12 Part 6</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">12 CFR Part  6</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Regulation Identification Number 1557-AF52</title>
+        </titleInfo>
+        <identifier type="regulation ID number">RIN 1557-AF52</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Regulation Identification Number 7100-AH20</title>
+        </titleInfo>
+        <identifier type="regulation ID number">RIN 7100-AH20</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Regulation Identification Number 3064-AF29</title>
+        </titleInfo>
+        <identifier type="regulation ID number">RIN 3064-AF29</identifier>
+    </relatedItem>
+    <extension>
+        <searchTitle>Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations; Federal Register Vol. 91, Issue </searchTitle>
+        <granuleClass>PRORULE</granuleClass>
+        <accessId>2026-05959</accessId>
+        <partNumber>III</partNumber>
+        <agency order="1">DEPARTMENT OF THE TREASURY</agency>
+        <agency order="2">Office of the Comptroller of the Currency</agency>
+        <agency order="3">FEDERAL RESERVE SYSTEM</agency>
+        <agency order="4">FEDERAL DEPOSIT INSURANCE CORPORATION</agency>
+        <commentDate>2026-06-18</commentDate>
+        <departmentDoc>Docket ID OCC-2026-0265</departmentDoc>
+        <departmentDoc>Docket No. 1887</departmentDoc>
+        <rin number="1557-AF52"/>
+        <rin number="7100-AH20"/>
+        <rin number="3064-AF29"/>
+        <billingCode>4810-33- 6210-01- 6714-01-P</billingCode>
+        <frDocNumber>2026-05959</frDocNumber>
+        <action>Notice of proposed rulemaking.</action>
+        <summary>The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation are proposing to modernize the capital requirements applicable to Category I and II depository institution holding companies and depository institutions, as well as revise the market risk capital framework for banking organizations with significant trading activity (the proposal). The proposal would improve the regulatory capital framework for covered banking organizations by enhancing its risk sensitivity and consistency and by simplifying core components of its design. The agencies expect the proposal would support the safety and soundness of covered banking organizations and U.S. financial stability while promoting lending and other financial intermediation activities in the banking system over a range of economic conditions.</summary>
+        <dates>Comments must be received by June 18, 2026.</dates>
+        <contact>OCC: Venus Fan, Risk Expert, Benjamin Pegg, Technical Expert, or Diana Wei, Risk Expert, Capital Policy, (202) 649-6370; Carl Kaminski, Assistant Director, Ron Shimabukuro, Senior Counsel, Kevin Korzeniewski, Counsel, Daniel Perez, Counsel, Christopher Rafferty, Counsel, or Joanne Phillips, Counsel, Chief Counsel's Office, (202) 649-5490, Office of the Comptroller of the Currency, 400 7th Street SW, Washington, DC 20219. If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications relay services.</contact>
+        <cfr title="12">
+                                    
+            <part number="208"/>
+                                    
+            <subject>Confidential Business Information</subject>
+                                    
+            <subject>Crime</subject>
+                                    
+            <subject>Currency</subject>
+                                    
+            <subject>Mortgages</subject>
+                                    
+            <subject>Securities</subject>
+                                
+        </cfr>
+        <cfr title="12">
+                                    
+            <part number="217"/>
+                                    
+            <subject>Capital</subject>
+                                    
+            <subject>Holding Companies</subject>
+                                
+        </cfr>
+        <cfr title="12">
+                                    
+            <part number="225"/>
+                                
+        </cfr>
+        <cfr title="12">
+                                    
+            <part number="238"/>
+                                
+        </cfr>
+        <cfr title="12">
+                                    
+            <part number="252"/>
+                                    
+            <subject>Credit</subject>
+                                    
+            <subject>Qualified Financial Contracts</subject>
+                                
+        </cfr>
+        <cfr title="12">
+                                    
+            <part number="32"/>
+                                
+        </cfr>
+        <cfr title="12">
+                                    
+            <part number="324"/>
+                                
+        </cfr>
+        <cfr title="12">
+                                    
+            <part number="3"/>
+                                    
+            <subject>Administrative Practice and Procedure</subject>
+                                    
+            <subject>Banks</subject>
+                                    
+            <subject>Banking</subject>
+                                    
+            <subject>Federal Reserve System</subject>
+                                    
+            <subject>Investments</subject>
+                                    
+            <subject>National Banks</subject>
+                                    
+            <subject>Reporting and Recordkeeping Requirements</subject>
+                                    
+            <subject>Savings Association</subject>
+                                    
+            <subject>Savings Associations</subject>
+                                    
+            <subject>Banking</subject>
+                                    
+            <subject>Capital Adequacy</subject>
+                                    
+            <subject>Savings Associations</subject>
+                                    
+            <subject>State Non-Member Banks</subject>
+                                
+        </cfr>
+        <cfr title="12">
+                                    
+            <part number="6"/>
+                                    
+            <subject>Penalties</subject>
+                                
+        </cfr>
+        <tocSubject1>Regulatory Capital</tocSubject1>
+        <tocDoc>Category I and II Banking Organizations, Banking Organizations with Significant Trading Activity, and Optional Adoption for Other Banking Organizations, </tocDoc>
+        <emailRef>comments@FDIC.gov</emailRef>
+        <emailRef>publiccomments@frb.gov</emailRef>
+        <emailRef>regulationshelpdesk@gsa.gov</emailRef>
+        <emailRef>regulatorycapital@fdic.gov</emailRef>
+        <urlRef>Electronically-Regulations.gov</urlRef>
+        <urlRef>http://dx.doi.org/10.2139/ssrn.4788627</urlRef>
+        <urlRef>http://www.jstor.org/stable/24825876</urlRef>
+        <urlRef>https://academic.oup.com/ej/article/123/567/1/5080596</urlRef>
+        <urlRef>https://cdr.ffiec.gov/public/PWS/DownloadBulkData.aspx</urlRef>
+        <urlRef>https://data.bis.org/topics/TOTAL_CREDIT/BIS,WS_TC,2.0/Q.5R.P.B.M.770.A?additional_ts=BIS%2CWS_TC%2C2.0%255EQ.DE%2BFR%2BUS%2BGB.P.B.M.770.A</urlRef>
+        <urlRef>https://data.bis.org/topics/TOTAL_CREDIT/BIS,WS_TC,2.0/Q.US.P.A.M.USD.A</urlRef>
+        <urlRef>https://doi.org/10.1007/978-3-319-60128-1_4</urlRef>
+        <urlRef>https://doi.org/10.1007/s10693-018-0295-8</urlRef>
+        <urlRef>https://doi.org/10.1007/s11149-019-09379-8</urlRef>
+        <urlRef>https://doi.org/10.1007/s11187-022-00662-1</urlRef>
+        <urlRef>https://doi.org/10.1016/j.euroecorev.2021.103661</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jbankfin.2010.09.004</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jbankfin.2014.01.030</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jbankfin.2022.106690</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jbankfin.2023.106969</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfi.2023.101061</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfineco.2013.https:02.008</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfineco.2016.11.007</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfineco.2018.https:03.011</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfineco.2019.10.004</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfineco.2024.103899</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfineco.2025.104186</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfs.2008.09.003</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfs.2022.101016</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jfs.2023.101164</urlRef>
+        <urlRef>https://doi.org/10.1016/j.jmoneco.2007.12.001</urlRef>
+        <urlRef>https://doi.org/10.1016/S1574-0048</urlRef>
+        <urlRef>https://doi.org/10.1093/restud/rdaa040</urlRef>
+        <urlRef>https://doi.org/10.1093/restud/rdab088</urlRef>
+        <urlRef>https://doi.org/10.1093/restud/rdz012</urlRef>
+        <urlRef>https://doi.org/10.1093/rfs/hhac089</urlRef>
+        <urlRef>https://doi.org/10.1093/rfs/hhad031</urlRef>
+        <urlRef>https://doi.org/10.1111/jmcb.12490</urlRef>
+        <urlRef>https://doi.org/10.1111/jmcb.12933</urlRef>
+        <urlRef>https://doi.org/10.1111/jofi.12368</urlRef>
+        <urlRef>https://doi.org/10.1111/jofi.13465</urlRef>
+        <urlRef>https://doi.org/10.1146/annurev-financial-021920-112021</urlRef>
+        <urlRef>https://doi.org/10.1146/annurev-financial-110613-034324</urlRef>
+        <urlRef>https://doi.org/10.1257/jep.20241434</urlRef>
+        <urlRef>https://doi.org/10.17016/2380-7172.2939</urlRef>
+        <urlRef>https://doi.org/10.20955/r.101.203-30</urlRef>
+        <urlRef>https://doi.org/10.21314/JOP.2022.033</urlRef>
+        <urlRef>https://doi.org/10.21314/jor.2023.014</urlRef>
+        <urlRef>https://doi.org/10.2139/ssrn.4457140</urlRef>
+        <urlRef>https://doi.org/10.2139/ssrn.4898830</urlRef>
+        <urlRef>https://doi.org/10.21799/frbp.wp.2024.11</urlRef>
+        <urlRef>https://doi.org/10.2866/51151</urlRef>
+        <urlRef>https://doi.org/10.3982/ECTA16438</urlRef>
+        <urlRef>https://doi.org/10.7208/chicago/9780226204437.003.0004</urlRef>
+        <urlRef>https://doi.org/doi:10.1093/restud/rdaf035</urlRef>
+        <urlRef>https://dx.doi.org/10.1016/j.jbankfin.2017.01.013</urlRef>
+        <urlRef>https://dx.doi.org/10.2139/ssrn.3110800</urlRef>
+        <urlRef>https://dx.doi.org/10.2139/ssrn.4760963</urlRef>
+        <urlRef>https://ffiec.cfpb.gov/data-publication</urlRef>
+        <urlRef>https://ffiec.cfpb.gov/data-publication/2023</urlRef>
+        <urlRef>https://ffiec.cfpb.gov/documentation/publications/loan-level-datasets/lar-data-fields</urlRef>
+        <urlRef>https://fraser.stlouisfed.org/title/capital-equivalency-report-9009</urlRef>
+        <urlRef>https://home.treasury.gov/system/files/136/IAWG-Treasury-Report.pdf</urlRef>
+        <urlRef>https://home.treasury.gov/system/files/261/FSOC-2024-Nonbank-Mortgage-Servicing-Report.pdf</urlRef>
+        <urlRef>https://investor.cmegroup.com/news-releases/news-release-details/cme-group-and-dtcc-launch-enhanced-treasury-cross-margining</urlRef>
+        <urlRef>https://link.springer.com/article/10.1007/s10693-019-00320-w</urlRef>
+        <urlRef>https://occ.gov/topics/laws-and-regulations/occ-regulations/proposed-issuances/index-proposed-issuances.html</urlRef>
+        <urlRef>https://ofac.treasury.gov/recent-actions/20181005</urlRef>
+        <urlRef>https://press.princeton.edu/books/paperback/9780691251707/the-bankers-new-clothes</urlRef>
+        <urlRef>https://regulations.gov/</urlRef>
+        <urlRef>https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1143&amp;context=ncbi</urlRef>
+        <urlRef>https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/lseg-mergent/</urlRef>
+        <urlRef>https://www.aeaweb.org/articles?id=10.1257/jep.9.4.27</urlRef>
+        <urlRef>https://www.aeaweb.org/articles?id=10.1257/pol.20140074</urlRef>
+        <urlRef>https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-paper/2015/measuring-the-macroeconomic-costs-and-benefits-of.pdf</urlRef>
+        <urlRef>https://www.bankofengland.co.uk/financial-stability-in-focus/2025/fsif-the-fpcs-assessment-of-bank-capital-requirements</urlRef>
+        <urlRef>https://www.bis.org/basel_framework/</urlRef>
+        <urlRef>https://www.bis.org/bcbs/history.htm</urlRef>
+        <urlRef>https://www.bis.org/bcbs/publ/d355.htm</urlRef>
+        <urlRef>https://www.bis.org/bcbs/publ/d363.pdf</urlRef>
+        <urlRef>https://www.bis.org/bcbs/publ/d424.htm</urlRef>
+        <urlRef>https://www.bis.org/bcbs/publ/d457.htm</urlRef>
+        <urlRef>https://www.bis.org/bcbs/publ/d507.htm</urlRef>
+        <urlRef>https://www.bis.org/bcbs/publ/d592.pdf</urlRef>
+        <urlRef>https://www.bis.org/bcbs/publ/d599.pdf</urlRef>
+        <urlRef>https://www.bis.org/publ/bcbs128.htm</urlRef>
+        <urlRef>https://www.bis.org/publ/bcbs173.pdf</urlRef>
+        <urlRef>https://www.bis.org/publ/bcbs186.pdf</urlRef>
+        <urlRef>https://www.bis.org/publ/bcbs189.htm</urlRef>
+        <urlRef>https://www.bis.org/publ/bcbs256.pdf</urlRef>
+        <urlRef>https://www.bis.org/publ/bcbs291.htm</urlRef>
+        <urlRef>https://www.bis.org/publ/work1074.pdf</urlRef>
+        <urlRef>https://www.bis.org/publ/work591.pdf</urlRef>
+        <urlRef>https://www.cato.org/regulation/summer-2023/rise-nonbank-mortgage-lending</urlRef>
+        <urlRef>https://www.cftc.gov/LawRegulation/DoddFrankAct/registerswapdealer.html</urlRef>
+        <urlRef>https://www.communitybankingconnections.org/articles/2013/q2/loan-participations</urlRef>
+        <urlRef>https://www.dallasfed.org/research/papers/2020/wp2023</urlRef>
+        <urlRef>https://www.doi.org/10.1257/jel.50.1.128</urlRef>
+        <urlRef>https://www.dtcc.com/news/2025/december/15/dtcc-files-to-expand-cme-group-cross-margining-arrangement</urlRef>
+        <urlRef>https://www.fdic.gov/federal-register-publications</urlRef>
+        <urlRef>https://www.fdic.gov/resources/regulations/federal-register-publications</urlRef>
+        <urlRef>https://www.fdic.gov/system/files/2024-07/kim-paper.pdf</urlRef>
+        <urlRef>https://www.federalreserve.gov/apps/proposals/</urlRef>
+        <urlRef>https://www.federalreserve.gov/apps/reportingforms/Report/Index/FR_Y-14M</urlRef>
+        <urlRef>https://www.federalreserve.gov/apps/reportingforms/Report/Index/FR_Y-14Q</urlRef>
+        <urlRef>https://www.federalreserve.gov/newsevents/pressreleases/bcreg20200304a.htm</urlRef>
+        <urlRef>https://www.federalreserve.gov/newsevents/pressreleases/bcreg20231020b.htm</urlRef>
+        <urlRef>https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251024a.htm</urlRef>
+        <urlRef>https://www.federalreserve.gov/publications/files/financial-stability-report-20201109.pdf</urlRef>
+        <urlRef>https://www.federalreserve.gov/publications/files/financial-stability-report-20250425.pdf</urlRef>
+        <urlRef>https://www.federalreserve.gov/publications/other-reports/files/effect-capital-rules-mortgage-servicing-assets-201606.pdf</urlRef>
+        <urlRef>https://www.federalreserve.gov/pubs/bulletin/1996/796lead.pdf</urlRef>
+        <urlRef>https://www.federalreserve.gov/releases/chargeoff/delallsa.htm</urlRef>
+        <urlRef>https://www.federalreserve.gov/releases/z1/</urlRef>
+        <urlRef>https://www.federalreserve.gov/SECRS/2024/February/20240220/R-1813/R-1813_011724_156753_496678267479_1.pdf</urlRef>
+        <urlRef>https://www.federalreserve.gov/supervisionreg/basel/basel-default.htm</urlRef>
+        <urlRef>https://www.federalreserve.gov/supervisionreg/legalinterpretations/reg-q-frequently-asked-questions.htm</urlRef>
+        <urlRef>https://www.federalreserve.gov/supervisionreg/reglisting.htm</urlRef>
+        <urlRef>https://www.federalreservehistory.org/essays/bank-capital-standards</urlRef>
+        <urlRef>https://www.fhfa.gov/news/news-release/fhfa-announces-9.3-billion-settlement-with-bank-of-america-corporation</urlRef>
+        <urlRef>https://www.fsb.org/2025/11/2025-list-of-global-systemically-important-banks-g-sibs/#g-sibs-2012-2025</urlRef>
+        <urlRef>https://www.gao.gov/assets/gao-12-235.pdf</urlRef>
+        <urlRef>https://www.gao.gov/assets/nsiad-86-40.pdf</urlRef>
+        <urlRef>https://www.ginniemae.gov/about_us/what_we_do/Pages/programs_products.aspx</urlRef>
+        <urlRef>https://www.govinfo.gov/content/pkg/FR-2008-07-29/pdf/E8-16262.pdf</urlRef>
+        <urlRef>https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf</urlRef>
+        <urlRef>https://www.imf.org/external/pubs/ft/wp/2014/wp1446.pdf</urlRef>
+        <urlRef>https://www.jstor.org/stable/2352275</urlRef>
+        <urlRef>https://www.justice.gov/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leadinghttps://www.justice.gov/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading</urlRef>
+        <urlRef>https://www.justice.gov/opa/pr/bnp-paribas-sentenced-conspiring-violate-international-emergency-economic-powers-act-and</urlRef>
+        <urlRef>https://www.justice.gov/opa/pr/credit-suisse-agrees-pay-528-billion-connection-its-sale-residential-mortgage-backed</urlRef>
+        <urlRef>https://www.justice.gov/opa/pr/deutsche-bank-agrees-pay-72-billion-misleading-investors-its-sale-residential-mortgage-backed</urlRef>
+        <urlRef>https://www.justice.gov/opa/pr/federal-government-and-state-attorneys-general-reach-25-billion-agreement-five-largest</urlRef>
+        <urlRef>https://www.justice.gov/opa/pr/justice-department-federal-and-state-partners-secure-record-13-billion-global-settlement</urlRef>
+        <urlRef>https://www.justice.gov/opa/pr/justice-department-federal-and-state-partners-secure-record-7-billion-global-settlementhttps://www.justice.gov/opa/pr/justice-department-federal-and-state-partners-secure-record-7-billion-global-settlement</urlRef>
+        <urlRef>https://www.justice.gov/opa/pr/morgan-stanley-agrees-pay-26-billion-penalty-connection-its-sale-residential-mortgage-backed</urlRef>
+        <urlRef>https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-and-fbi-assistant-director-charge-announce-filing-criminal</urlRef>
+        <urlRef>https://www.morningstar.com/funds/third-avenue-focused-credit-abruptly-shuttered</urlRef>
+        <urlRef>https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr732.pdf</urlRef>
+        <urlRef>https://www.newyorkfed.org/research/banking_research/quarterly_trends.html</urlRef>
+        <urlRef>https://www.newyorkfed.org/research/epr/2013/execsum_fust.html</urlRef>
+        <urlRef>https://www.newyorkfed.org/research/staff_reports/sr965.html</urlRef>
+        <urlRef>https://www.nytimes.com/2005/03/13/business/yourmoney/worldcom-teaches-a-pricey-lesson.html</urlRef>
+        <urlRef>https://www.nytimes.com/2005/06/15/business/jp-morgan-chase-to-pay-enron-investors-22-billion.html</urlRef>
+        <urlRef>https://www.nytimes.com/2008/03/27/business/27enron.html</urlRef>
+        <urlRef>https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/commercial-real-estate-lending/pub-ch-commercial-real-estate.pdf</urlRef>
+        <urlRef>https://www.occ.treas.gov/static/ots/exam-handbook/ots-exam-handbook-214aa.pdf</urlRef>
+        <urlRef>https://www.pm-research.com/content/iijfixinc/24/1/29</urlRef>
+        <urlRef>https://www.regulations.gov</urlRef>
+        <urlRef>https://www.reuters.com/article/business/hidden-in-plain-sight-big-risks-at-failed-third-avenue-fund-were-clear-to-some-idUSKBN0U627V</urlRef>
+        <urlRef>https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-33</urlRef>
+        <urlRef>https://www.richmondfed.org/∼/media/richmondfedorg/publications/research/working_papers/2010/pdf/wp10-11.pdf</urlRef>
+        <urlRef>https://www.risk.net/journal-of-credit-risk/2465626/the-impact-of-loan-to-value-on-the-default-rate-of-residential-mortgage-backed-securities</urlRef>
+        <urlRef>https://www.risk.net/regulation/7958192/frtb-managers-face-hard-facts-about-risk-factors</urlRef>
+        <urlRef>https://www.risk.net/risk-quantum/7922981/all-top-us-banks-below-collins-floor</urlRef>
+        <urlRef>https://www.risk.net/risk-quantum/7959098/canadas-top-dealers-boost-derivatives-clearing-as-frtb-kicks-in</urlRef>
+        <urlRef>https://www.sifma.org/wp-content/uploads/2023/02/uniform-practices-2023-chapter-8.pdf</urlRef>
+        <urlRef>https://www.suerf.org/publications/suerf-policy-notes-and-briefs/regulatory-complexity-and-the-quest-for-robust-regulation/</urlRef>
+        <urlRef>https://www.urban.org/sites/default/files/2023-09/BankCapitalNoticeofProposedRulemaking.pdf</urlRef>
+        <urlRef>https://www.urban.org/sites/default/files/publication/92676/2017_08_18_sixty_years_of_pmi_finalizedv3_3.pdf</urlRef>
+        <urlRef>https://www.wsj.com/articles/SB110985786525469459</urlRef>
+        <urlRef>Portal-Regulations.gov</urlRef>
+        <urlRef>Regulations.gov</urlRef>
+        <urlRef>Risk.net</urlRef>
+        <urlRef>www.bis.org/bcbs/publ/d305.pdf</urlRef>
+        <urlRef>www.bis.org/bcbs/publ/d352.pdf</urlRef>
+        <urlRef>www.bis.org/publ/bcbs219.pdf</urlRef>
+        <urlRef>www.bis.org/publ/bcbs265.pdf</urlRef>
+        <urlRef>www.federalreserve.gov</urlRef>
+        <urlRef>www.ffiec.gov</urlRef>
+        <urlRef>www.nber.org/papers/w34323</urlRef>
+    </extension>
+    <relatedItem type="host" ID="P0b002ee1e010256a" xlink:href="https://www.govinfo.gov/metadata/pkg/FR-2026-03-27/mods.xml">
+        <titleInfo>
+            <title>Federal Register</title>
+            <partNumber>Vol. 91, no. 59</partNumber>
+        </titleInfo>
+        <originInfo>
+            <publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+            <dateIssued encoding="w3cdtf">2026-03-27</dateIssued>
+            <issuance>continuing</issuance>
+            <frequency>daily</frequency>
+        </originInfo>
+        <physicalDescription>
+            <note type="source content type">deposited</note>
+            <digitalOrigin>born digital</digitalOrigin>
+            <extent>769 p.</extent>
+        </physicalDescription>
+        <tableOfContents xlink:href="https://www.govinfo.gov/app/frtoc/2026-03-27">    
+		  Table of Contents: 
+		</tableOfContents>
+        <classification authority="sudocs">AE 2.7:</classification>
+        <classification authority="sudocs">GS 4.107:</classification>
+        <classification authority="sudocs">AE 2.106:</classification>
+        <classification authority="lcc">KF70.A2</classification>
+        <identifier type="uri">https://www.govinfo.gov/app/details/FR-2026-03-27</identifier>
+        <identifier type="local">P0b002ee1e010256a</identifier>
+        <identifier type="issn">0097-6326</identifier>
+        <identifier type="issn">0042-1219</identifier>
+        <identifier type="issn">0364-1406</identifier>
+        <identifier type="stock number">769-004-00000-9</identifier>
+        <identifier type="ILS system id">000582072</identifier>
+        <identifier type="former identifier">f:fr27mr26</identifier>
+        <location>
+            <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2026-03-27</url>
+            <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2026-03-27/pdf/FR-2026-03-27.pdf</url>
+            <url displayLabel="XML rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2026-03-27/xml/FR-2026-03-27.xml</url>
+        </location>
+        <accessCondition type="GPO scope determination">fdlp</accessCondition>
+        <part type="issue">
+            <extent unit="pages">
+                <start>14755</start>
+                <end>15517</end>
+            </extent>
+        </part>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DGPO</recordContentSource>
+            <recordCreationDate encoding="w3cdtf">2026-03-28</recordCreationDate>
+            <recordChangeDate encoding="w3cdtf">2026-03-28</recordChangeDate>
+            <recordIdentifier source="DGPO">FR-2026-03-27</recordIdentifier>
+            <recordOrigin>machine generated</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <extension>
+            <docClass>FR</docClass>
+            <accessId>FR-2026-03-27</accessId>
+            <volume>91</volume>
+            <issue>59</issue>
+        </extension>
+    </relatedItem>
+</mods>
