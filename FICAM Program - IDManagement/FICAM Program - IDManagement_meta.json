@@ -1,0 +1,766 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FICAM Program",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          37.11962890625
+        ],
+        [
+          290.55938720703125,
+          37.11962890625
+        ],
+        [
+          290.55938720703125,
+          66.39959716796875
+        ],
+        [
+          33.75,
+          66.39959716796875
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          107.11505126953125
+        ],
+        [
+          194.40133666992188,
+          107.11505126953125
+        ],
+        [
+          194.40133666992188,
+          130.51507568359375
+        ],
+        [
+          33.46875,
+          130.51507568359375
+        ]
+      ]
+    },
+    {
+      "title": "Federal Workforce Identity Framework",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          366.99609375
+        ],
+        [
+          515.3580932617188,
+          366.99609375
+        ],
+        [
+          515.3580932617188,
+          390.97265625
+        ],
+        [
+          32.2734375,
+          390.97265625
+        ]
+      ]
+    },
+    {
+      "title": "1. Governance",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.8046875,
+          678.1048278808594
+        ],
+        [
+          126.43155670166016,
+          678.1048278808594
+        ],
+        [
+          126.43155670166016,
+          690.8173294067383
+        ],
+        [
+          40.8046875,
+          690.8173294067383
+        ]
+      ]
+    },
+    {
+      "title": "3. Recognition",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.744140625,
+          240.85479736328125
+        ],
+        [
+          125.342529296875,
+          240.85479736328125
+        ],
+        [
+          125.342529296875,
+          253.56732177734375
+        ],
+        [
+          39.744140625,
+          253.56732177734375
+        ]
+      ]
+    },
+    {
+      "title": "4. Compliance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.04296875,
+          423.84375
+        ],
+        [
+          125.27472686767578,
+          423.84375
+        ],
+        [
+          125.27472686767578,
+          437.31732177734375
+        ],
+        [
+          40.04296875,
+          437.31732177734375
+        ]
+      ]
+    },
+    {
+      "title": "ICAM Governance Bodies",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.2734375,
+          599.80078125
+        ],
+        [
+          344.8522644042969,
+          599.80078125
+        ],
+        [
+          344.8522644042969,
+          623.2650604248047
+        ],
+        [
+          32.2734375,
+          623.2650604248047
+        ]
+      ]
+    },
+    {
+      "title": "Identity, Credential, and Access\nManagement Subcommittee",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.2734375,
+          368.54296875
+        ],
+        [
+          418.86358642578125,
+          368.54296875
+        ],
+        [
+          418.86358642578125,
+          420.36328125
+        ],
+        [
+          32.2734375,
+          420.36328125
+        ]
+      ]
+    },
+    {
+      "title": "Activities",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.2734375,
+          682.55859375
+        ],
+        [
+          113.60897827148438,
+          682.55859375
+        ],
+        [
+          113.60897827148438,
+          699.1026611328125
+        ],
+        [
+          32.2734375,
+          699.1026611328125
+        ]
+      ]
+    },
+    {
+      "title": "Membership and Meetings",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          32.2734375,
+          237.52288818359375
+        ],
+        [
+          256.8685302734375,
+          237.52288818359375
+        ],
+        [
+          256.8685302734375,
+          254.07421875
+        ],
+        [
+          32.2734375,
+          254.07421875
+        ]
+      ]
+    },
+    {
+      "title": "ICAMSC Working Groups",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          32.87109375,
+          387.87890625
+        ],
+        [
+          248.08265686035156,
+          387.87890625
+        ],
+        [
+          248.08265686035156,
+          405.1029052734375
+        ],
+        [
+          32.87109375,
+          405.1029052734375
+        ]
+      ]
+    },
+    {
+      "title": "Identity Focused WG - formerly Derived-PIV.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.2734375,
+          261.421875
+        ],
+        [
+          292.48681640625,
+          261.421875
+        ],
+        [
+          292.48681640625,
+          274.56732177734375
+        ],
+        [
+          32.2734375,
+          274.56732177734375
+        ]
+      ]
+    },
+    {
+      "title": "Other ICAM Working Groups",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.2734375,
+          373.95703125
+        ],
+        [
+          278.28759765625,
+          373.95703125
+        ],
+        [
+          278.28759765625,
+          390.19921875
+        ],
+        [
+          32.2734375,
+          390.19921875
+        ]
+      ]
+    },
+    {
+      "title": "ICAM Community Listserv",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.2734375,
+          468.52264404296875
+        ],
+        [
+          255.9927520751953,
+          468.52264404296875
+        ],
+        [
+          255.9927520751953,
+          484.6026611328125
+        ],
+        [
+          32.2734375,
+          484.6026611328125
+        ]
+      ]
+    },
+    {
+      "title": "Federal Public Key Infrastructure Policy\nAuthority",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          31.078125,
+          682.171875
+        ],
+        [
+          523.2947998046875,
+          682.171875
+        ],
+        [
+          523.2947998046875,
+          734.765625
+        ],
+        [
+          31.078125,
+          734.765625
+        ]
+      ]
+    },
+    {
+      "title": "Activities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.87109375,
+          238.21875
+        ],
+        [
+          113.60897827148438,
+          238.21875
+        ],
+        [
+          113.60897827148438,
+          254.3526611328125
+        ],
+        [
+          32.87109375,
+          254.3526611328125
+        ]
+      ]
+    },
+    {
+      "title": "Membership and Meetings",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.87109375,
+          653.7726593017578
+        ],
+        [
+          256.8685302734375,
+          653.7726593017578
+        ],
+        [
+          256.8685302734375,
+          669.8526611328125
+        ],
+        [
+          32.87109375,
+          669.8526611328125
+        ]
+      ]
+    },
+    {
+      "title": "Federal Public Key Infrastructure\nManagement Authority",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          32.2734375,
+          154.36456298828125
+        ],
+        [
+          444.21160888671875,
+          154.36456298828125
+        ],
+        [
+          444.21160888671875,
+          206.89453125
+        ],
+        [
+          32.2734375,
+          206.89453125
+        ]
+      ]
+    },
+    {
+      "title": "Activities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          31.67578125,
+          323.02215576171875
+        ],
+        [
+          113.60897827148438,
+          323.02215576171875
+        ],
+        [
+          113.60897827148438,
+          339.1021728515625
+        ],
+        [
+          31.67578125,
+          339.1021728515625
+        ]
+      ]
+    },
+    {
+      "title": "FPKIMA Newsletter",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          33.46875,
+          639.24609375
+        ],
+        [
+          201.529541015625,
+          639.24609375
+        ],
+        [
+          201.529541015625,
+          655.6021728515625
+        ],
+        [
+          33.46875,
+          655.6021728515625
+        ]
+      ]
+    },
+    {
+      "title": "Federal Public Key Infrastructure Working Groups",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          33.46875,
+          29.77264404296875
+        ],
+        [
+          457.8370361328125,
+          29.77264404296875
+        ],
+        [
+          457.8370361328125,
+          45.8526611328125
+        ],
+        [
+          33.46875,
+          45.8526611328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          410
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          392
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          265
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          615
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          499
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          546
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          429
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          287
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FICAM Program - IDManagement"
+}
