@@ -1,0 +1,163 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Instructions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          17.630859375,
+          17.7890625
+        ],
+        [
+          91.53699493408203,
+          17.7890625
+        ],
+        [
+          91.53699493408203,
+          30.685791015625
+        ],
+        [
+          17.630859375,
+          30.685791015625
+        ]
+      ]
+    },
+    {
+      "title": "Paperwork Reduction Act Statement",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          20.91796875,
+          512.015625
+        ],
+        [
+          232.5380096435547,
+          512.015625
+        ],
+        [
+          232.5380096435547,
+          524.1498413085938
+        ],
+        [
+          20.91796875,
+          524.1498413085938
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "TableCell",
+          90
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          74
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/SF25A-23a"
+}

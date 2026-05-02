@@ -1,0 +1,290 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Obligation:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          21.216796875,
+          276.890625
+        ],
+        [
+          83.91999816894531,
+          276.890625
+        ],
+        [
+          83.91999816894531,
+          289.265625
+        ],
+        [
+          21.216796875,
+          289.265625
+        ]
+      ]
+    },
+    {
+      "title": "Conditions:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          23.009765625,
+          435.05859375
+        ],
+        [
+          86.58399963378906,
+          435.05859375
+        ],
+        [
+          86.58399963378906,
+          448.4641418457031
+        ],
+        [
+          23.009765625,
+          448.4641418457031
+        ]
+      ]
+    },
+    {
+      "title": "Therefore:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          22.412109375,
+          490.74609375
+        ],
+        [
+          83.23999786376953,
+          490.74609375
+        ],
+        [
+          83.23999786376953,
+          504.1201477050781
+        ],
+        [
+          22.412109375,
+          504.1201477050781
+        ]
+      ]
+    },
+    {
+      "title": "Instructions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          21.515625,
+          276.50390625
+        ],
+        [
+          91.26797485351562,
+          276.50390625
+        ],
+        [
+          91.26797485351562,
+          290.4048767089844
+        ],
+        [
+          21.515625,
+          290.4048767089844
+        ]
+      ]
+    },
+    {
+      "title": "Paperwork Reduction Act Statement",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          18.52734375,
+          20.49609375
+        ],
+        [
+          230.12594604492188,
+          20.49609375
+        ],
+        [
+          230.12594604492188,
+          34.25177001953125
+        ],
+        [
+          18.52734375,
+          34.25177001953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          244
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/SF25-23a"
+}

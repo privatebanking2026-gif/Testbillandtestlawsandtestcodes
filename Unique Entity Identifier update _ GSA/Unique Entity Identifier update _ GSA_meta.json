@@ -1,0 +1,294 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Unique Entity Identifier update",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.75,
+          187.351806640625
+        ],
+        [
+          414.7708740234375,
+          187.351806640625
+        ],
+        [
+          414.7708740234375,
+          214.351806640625
+        ],
+        [
+          39.75,
+          214.351806640625
+        ]
+      ]
+    },
+    {
+      "title": "About the Unique Entity Identifier",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.4453125,
+          222.36328125
+        ],
+        [
+          186.6595458984375,
+          222.36328125
+        ],
+        [
+          186.6595458984375,
+          233.1131591796875
+        ],
+        [
+          39.4453125,
+          233.1131591796875
+        ]
+      ]
+    },
+    {
+      "title": "Action you need to take",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.6484375,
+          402.6131591796875
+        ],
+        [
+          192.67312622070312,
+          402.6131591796875
+        ],
+        [
+          192.67312622070312,
+          412.62890625
+        ],
+        [
+          89.6484375,
+          412.62890625
+        ]
+      ]
+    },
+    {
+      "title": "Unique Entity ID now required",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.75,
+          704.1131439208984
+        ],
+        [
+          171.17007446289062,
+          704.1131439208984
+        ],
+        [
+          171.17007446289062,
+          713.8631439208984
+        ],
+        [
+          39.75,
+          713.8631439208984
+        ]
+      ]
+    },
+    {
+      "title": "Why we changed",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.84765625,
+          181.7578125
+        ],
+        [
+          113.12843322753906,
+          181.7578125
+        ],
+        [
+          113.12843322753906,
+          191.8631591796875
+        ],
+        [
+          38.84765625,
+          191.8631591796875
+        ]
+      ]
+    },
+    {
+      "title": "Definition of Unique",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.84765625,
+          306.6131591796875
+        ],
+        [
+          127.83789825439453,
+          306.6131591796875
+        ],
+        [
+          127.83789825439453,
+          316.3631591796875
+        ],
+        [
+          38.84765625,
+          316.3631591796875
+        ]
+      ]
+    },
+    {
+      "title": "Unique Entity ID is viewable in IAE systems",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.4453125,
+          425.1131591796875
+        ],
+        [
+          223.81675720214844,
+          425.1131591796875
+        ],
+        [
+          223.81675720214844,
+          434.8631591796875
+        ],
+        [
+          39.4453125,
+          434.8631591796875
+        ]
+      ]
+    },
+    {
+      "title": "More information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.744140625,
+          512.1131591796875
+        ],
+        [
+          116.75218200683594,
+          512.1131591796875
+        ],
+        [
+          116.75218200683594,
+          521.8631591796875
+        ],
+        [
+          39.744140625,
+          521.8631591796875
+        ]
+      ]
+    },
+    {
+      "title": "Further questions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.75,
+          574.27734375
+        ],
+        [
+          117.74665832519531,
+          574.27734375
+        ],
+        [
+          117.74665832519531,
+          584.1131439208984
+        ],
+        [
+          39.75,
+          584.1131439208984
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          739
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          756
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Unique Entity Identifier update _ GSA"
+}
